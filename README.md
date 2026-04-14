@@ -2,8 +2,19 @@
 
 A sequential and OpenMP-parallelized Sobel edge detection program written in C++.
 
-<img src="asset/img1.png" width="300">
-<img src="asset/img2.png" width="300">
+<table>
+  <tr>
+    <td align="center">
+      <img src="asset/img1.png" width="300"><br>
+      <em>High-detail scene: dense edges distributed across the image</em>
+    </td>
+    <td align="center">
+      <img src="asset/img2.png" width="300"><br>
+      <em>High-contrast scene: sparse but prominent edges along silhouettes</em>
+    </td>
+  </tr>
+</table>
+
 ## Requirements
 
 - GCC 7.0 or higher (for C++17 support)
