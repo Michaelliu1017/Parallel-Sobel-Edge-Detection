@@ -5,7 +5,7 @@ A sequential and OpenMP-parallelized Sobel edge detection program written in C++
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;" align="center" valign="middle">
-      <img src="asset/img1.png" width="400"><br>
+      <img src="asset/img1.png" height="500"><br>
       <em>High-detail scene: dense edges distributed across the image</em>
     </td>
     <td style="border: none;" align="center" valign="middle">
