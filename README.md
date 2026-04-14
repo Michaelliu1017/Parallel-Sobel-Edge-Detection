@@ -9,7 +9,7 @@ A sequential and OpenMP-parallelized Sobel edge detection program written in C++
       <em>High-detail scene: dense edges distributed across the image</em>
     </td>
     <td style="border: none;" align="center" valign="middle">
-      <img src="asset/img2.png" height="400"><br>
+      <img src="asset/img2.png" height="500"><br>
       <em>High-contrast scene: sparse but prominent edges along silhouettes</em>
     </td>
   </tr>
