@@ -2,13 +2,13 @@
 
 A sequential and OpenMP-parallelized Sobel edge detection program written in C++.
 
-<table border="0">
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center" valign="middle">
+    <td style="border: none;" align="center" valign="middle">
       <img src="asset/img1.png" width="400"><br>
       <em>High-detail scene: dense edges distributed across the image</em>
     </td>
-    <td align="center" valign="middle">
+    <td style="border: none;" align="center" valign="middle">
       <img src="asset/img2.png" width="400"><br>
       <em>High-contrast scene: sparse but prominent edges along silhouettes</em>
     </td>
