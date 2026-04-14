@@ -1,6 +1,6 @@
 # Parallel Sobel Edge Detection
 
-A sequential and OpenMP-parallelized Sobel edge detection program written in C++.
+A C++ Sobel edge detection program with sequential and OpenMP parallel modes. Supports L1/L2 gradient magnitude, automatic correctness verification, and benchmarking across multiple thread counts on PGM grayscale images.
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
