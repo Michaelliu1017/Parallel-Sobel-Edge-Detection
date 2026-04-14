@@ -1,7 +1,7 @@
 # Parallel Sobel Edge Detection
 
 A sequential and OpenMP-parallelized Sobel edge detection program written in C++.
-
+<img src="asset/img2.png">
 ## Requirements
 
 - GCC 7.0 or higher (for C++17 support)
